@@ -3,7 +3,7 @@ This repository contains a visually engaging animated website created using the 
 
 Live Demo
 Check out the live version of the website here: Lenis.js Animated Website.
-<a href="https://lenis-js-theta.vercel.app" target="_blank"></a>
+https://lenis-js-theta.vercel.app
 
 Features
 Smooth scrolling powered by Lenis.js.

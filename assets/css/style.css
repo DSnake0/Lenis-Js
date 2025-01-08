@@ -1,0 +1,13 @@
+.grid>div {
+    grid-row: var(--r);
+    grid-column: var(--c);
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+::selection {
+    background: black;
+    color: white;
+}

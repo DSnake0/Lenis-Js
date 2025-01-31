@@ -17,7 +17,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/DSnake0/Lenis-Js.git  
+git clone https://github.com/ExploitEngineer/Lenis-Js.git  
 cd Lenis-Js  
 Install Dependencies
 Ensure you have Node.js and npm installed. Then run:
